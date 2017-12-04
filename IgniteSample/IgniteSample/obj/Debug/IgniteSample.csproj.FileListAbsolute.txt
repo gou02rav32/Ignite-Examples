@@ -1,0 +1,9 @@
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\bin\Debug\IgniteSample.exe.config
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\bin\Debug\IgniteSample.exe
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\bin\Debug\IgniteSample.pdb
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\bin\Debug\Apache.Ignite.Core.dll
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\bin\Debug\Apache.Ignite.exe
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\bin\Debug\Apache.Ignite.Core.xml
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\obj\Debug\IgniteSample.csprojResolveAssemblyReference.cache
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\obj\Debug\IgniteSample.exe
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\obj\Debug\IgniteSample.pdb

@@ -1,0 +1,33 @@
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\bin\x64\Debug\IgniteSample.exe.config
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\bin\x64\Debug\IgniteSample.exe
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\bin\x64\Debug\IgniteSample.pdb
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\bin\x64\Debug\Apache.Ignite.Core.dll
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\bin\x64\Debug\Apache.Ignite.exe
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\bin\x64\Debug\Apache.Ignite.Core.xml
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\obj\x64\Debug\IgniteSample.exe
+c:\users\pramo\documents\visual studio 2015\Projects\IgniteSample\IgniteSample\obj\x64\Debug\IgniteSample.pdb
+C:\Users\pramo\Documents\Visual Studio 2015\Projects\IgniteSample\IgniteSample\obj\x64\Debug\IgniteSample.csprojResolveAssemblyReference.cache
+C:\Users\pramo\Documents\Visual Studio 2015\Projects\IgniteSample\IgniteSample\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\pramo\Documents\Visual Studio 2015\Projects\IgniteSample\IgniteSample\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Bizruntime\IgniteSample\IgniteSample\bin\x64\Debug\IgniteSample.exe.config
+C:\Bizruntime\IgniteSample\IgniteSample\obj\x64\Debug\IgniteSample.exe
+C:\Bizruntime\IgniteSample\IgniteSample\obj\x64\Debug\IgniteSample.pdb
+C:\Bizruntime\IgniteSample\IgniteSample\bin\x64\Debug\IgniteSample.exe
+C:\Bizruntime\IgniteSample\IgniteSample\bin\x64\Debug\IgniteSample.pdb
+C:\Bizruntime\IgniteSample\IgniteSample\bin\x64\Debug\Apache.Ignite.Core.dll
+C:\Bizruntime\IgniteSample\IgniteSample\bin\x64\Debug\Apache.Ignite.exe
+C:\Bizruntime\IgniteSample\IgniteSample\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Bizruntime\IgniteSample\IgniteSample\bin\x64\Debug\Apache.Ignite.Core.xml
+C:\Bizruntime\IgniteSample\IgniteSample\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Bizruntime\IgniteSample\IgniteSample\obj\x64\Debug\IgniteSample.csprojResolveAssemblyReference.cache
+D:\BizRuntime\IgniteSample\IgniteSample\bin\x64\Debug\IgniteSample.exe.config
+D:\BizRuntime\IgniteSample\IgniteSample\obj\x64\Debug\IgniteSample.exe
+D:\BizRuntime\IgniteSample\IgniteSample\obj\x64\Debug\IgniteSample.pdb
+D:\BizRuntime\IgniteSample\IgniteSample\bin\x64\Debug\IgniteSample.exe
+D:\BizRuntime\IgniteSample\IgniteSample\bin\x64\Debug\IgniteSample.pdb
+D:\BizRuntime\IgniteSample\IgniteSample\bin\x64\Debug\Apache.Ignite.Core.dll
+D:\BizRuntime\IgniteSample\IgniteSample\bin\x64\Debug\Apache.Ignite.exe
+D:\BizRuntime\IgniteSample\IgniteSample\bin\x64\Debug\Newtonsoft.Json.dll
+D:\BizRuntime\IgniteSample\IgniteSample\bin\x64\Debug\Apache.Ignite.Core.xml
+D:\BizRuntime\IgniteSample\IgniteSample\bin\x64\Debug\Newtonsoft.Json.xml
+D:\BizRuntime\IgniteSample\IgniteSample\obj\x64\Debug\IgniteSample.csprojResolveAssemblyReference.cache

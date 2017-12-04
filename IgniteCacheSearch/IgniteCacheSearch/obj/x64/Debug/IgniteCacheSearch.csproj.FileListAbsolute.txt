@@ -1,0 +1,80 @@
+c:\users\gourav bhattacharya\documents\visual studio 2015\Projects\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\IgniteCacheSearch.exe.config
+c:\users\gourav bhattacharya\documents\visual studio 2015\Projects\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\IgniteCacheSearch.exe
+c:\users\gourav bhattacharya\documents\visual studio 2015\Projects\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\IgniteCacheSearch.pdb
+c:\users\gourav bhattacharya\documents\visual studio 2015\Projects\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Apache.Ignite.Core.dll
+c:\users\gourav bhattacharya\documents\visual studio 2015\Projects\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Apache.Ignite.exe
+c:\users\gourav bhattacharya\documents\visual studio 2015\Projects\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Apache.Ignite.Core.xml
+c:\users\gourav bhattacharya\documents\visual studio 2015\Projects\IgniteCacheSearch\IgniteCacheSearch\obj\x64\Debug\IgniteCacheSearch.exe
+c:\users\gourav bhattacharya\documents\visual studio 2015\Projects\IgniteCacheSearch\IgniteCacheSearch\obj\x64\Debug\IgniteCacheSearch.pdb
+C:\Users\Gourav Bhattacharya\Documents\Visual Studio 2015\Projects\IgniteCacheSearch\IgniteCacheSearch\obj\x64\Debug\IgniteCacheSearch.csprojResolveAssemblyReference.cache
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\IgniteCacheSearch.exe.config
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\obj\x64\Debug\IgniteCacheSearch.exe
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\obj\x64\Debug\IgniteCacheSearch.pdb
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\IgniteCacheSearch.exe
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\IgniteCacheSearch.pdb
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Apache.Ignite.Core.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Apache.Ignite.exe
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Apache.Ignite.Core.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\obj\x64\Debug\IgniteCacheSearch.csprojResolveAssemblyReference.cache
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Json.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Http.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.JsonPatch.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Routing.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.Options.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.Primitives.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Net.Http.Headers.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Newtonsoft.Json.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\System.Buffers.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\System.Text.Encodings.Web.dll
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Json.pdb
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Http.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.JsonPatch.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Routing.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.Options.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.PlatformAbstractions.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Extensions.Primitives.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Microsoft.Net.Http.Headers.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\Newtonsoft.Json.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BizRuntime\ProjectVison2Reality\08-11-2017\IgniteCacheSearch\IgniteCacheSearch\bin\x64\Debug\System.Text.Encodings.Web.xml
